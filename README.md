@@ -1,4 +1,4 @@
-<h1 align="center">Roblox Kill Aura</h1>
+<h1 align="center">Roblox Money Simulator GUI</h1>
 
 ## Features 
 - 
