@@ -1,8 +1,8 @@
 <h1 align="center">Roblox Money Simulator GUI</h1>
 
 ## Features 
-- 
-- 
+- Auto Game
+- Admin
 - Anti AFK
 - Anti Kick
 - Anti Ban
